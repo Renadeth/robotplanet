@@ -1,0 +1,175 @@
+.botonera{
+				background-color: #f2f2f2;
+        margin-top: 0px;
+        height: 87px;
+}
+.boton1{
+	background-color: #7FE809;
+	width: 80px;
+}
+.boton1:hover, .boton1:focus, .boton1:active {
+  -webkit-animation-name: hvr-back-pulse;
+  animation-name: hvr-back-pulse;
+  -webkit-animation-duration: 1s;
+  animation-duration: 1s;
+  -webkit-animation-delay: 0.5s;
+  animation-delay: 0.5s;
+  -webkit-animation-timing-function: linear;
+  animation-timing-function: linear;
+  -webkit-animation-iteration-count: infinite;
+  animation-iteration-count: infinite;
+  background-color: #f2f2f2;
+  background-color: #f2f2f2;
+  color: #666;
+}
+
+.boton2{
+	background-color: #FC7158;
+	color: #fff;
+}
+.boton2:hover, .boton2:focus, .boton2:active{
+  -webkit-animation-name: hvr-back-pulse;
+  animation-name: hvr-back-pulse;
+  -webkit-animation-duration: 1s;
+  animation-duration: 1s;
+  -webkit-animation-delay: 0.5s;
+  animation-delay: 0.5s;
+  -webkit-animation-timing-function: linear;
+  animation-timing-function: linear;
+  -webkit-animation-iteration-count: infinite;
+  animation-iteration-count: infinite;
+  background-color: #f2f2f2;
+  background-color: #f2f2f2;
+  color: #666;
+}
+.boton3{
+	background-color: #FC5173;
+}
+.boton3:hover, .boton3:focus, .boton3:active{
+  -webkit-animation-name: hvr-back-pulse;
+  animation-name: hvr-back-pulse;
+  -webkit-animation-duration: 1s;
+  animation-duration: 1s;
+  -webkit-animation-delay: 0.5s;
+  animation-delay: 0.5s;
+  -webkit-animation-timing-function: linear;
+  animation-timing-function: linear;
+  -webkit-animation-iteration-count: infinite;
+  animation-iteration-count: infinite;
+  background-color: #f2f2f2;
+  background-color: #f2f2f2;
+  color: #666;
+}
+.boton4{
+	background-color: #00ccff;
+	width: 80px;
+}
+.boton4:hover, .boton4:focus, .boton4:active {
+  -webkit-animation-name: hvr-back-pulse;
+  animation-name: hvr-back-pulse;
+  -webkit-animation-duration: 1s;
+  animation-duration: 1s;
+  -webkit-animation-delay: 0.5s;
+  animation-delay: 0.5s;
+  -webkit-animation-timing-function: linear;
+  animation-timing-function: linear;
+  -webkit-animation-iteration-count: infinite;
+  animation-iteration-count: infinite;
+  background-color: #f2f2f2;
+  background-color: #f2f2f2;
+  color: #666;
+}
+.boton5{
+	background-color:#F4D03F;
+}
+.boton5:hover, .boton5:focus, .boton5:active {
+  -webkit-animation-name: hvr-back-pulse;
+  animation-name: hvr-back-pulse;
+  -webkit-animation-duration: 1s;
+  animation-duration: 1s;
+  -webkit-animation-delay: 0.5s;
+  animation-delay: 0.5s;
+  -webkit-animation-timing-function: linear;
+  animation-timing-function: linear;
+  -webkit-animation-iteration-count: infinite;
+  animation-iteration-count: infinite;
+  background-color: #f2f2f2;
+  background-color: #f2f2f2;
+  color: #666;
+}
+.boton6{
+	background-color: #CB5BFC;
+	width: 80px;
+}
+.boton6:hover, .boton6:focus, .boton6:active {
+  -webkit-animation-name: hvr-back-pulse;
+  animation-name: hvr-back-pulse;
+  -webkit-animation-duration: 1s;
+  animation-duration: 1s;
+  -webkit-animation-delay: 0.5s;
+  animation-delay: 0.5s;
+  -webkit-animation-timing-function: linear;
+  animation-timing-function: linear;
+  -webkit-animation-iteration-count: infinite;
+  animation-iteration-count: infinite;
+  background-color: #f2f2f2;
+  background-color: #f2f2f2;
+  color: #666;
+}
+.boton7{
+	background-color: #F4D03F;
+	width: 80px;
+}
+.boton7:hover, .boton7:focus, .boton7:active {
+  -webkit-animation-name: hvr-back-pulse;
+  animation-name: hvr-back-pulse;
+  -webkit-animation-duration: 1s;
+  animation-duration: 1s;
+  -webkit-animation-delay: 0.5s;
+  animation-delay: 0.5s;
+  -webkit-animation-timing-function: linear;
+  animation-timing-function: linear;
+  -webkit-animation-iteration-count: infinite;
+  animation-iteration-count: infinite;
+  background-color: #f2f2f2;
+  background-color: #f2f2f2;
+  color: #666;
+}
+.boton1, .boton2, .boton3, .boton4, .boton5, .boton6, .boton7 {
+	text-align: center;
+	color: #f2f2f2;
+	height: 100%;
+	margin-top: 0px;
+	padding-top: 20px;
+	-webkit-transform: perspective(1px) translateZ(0);
+  transform: perspective(1px) translateZ(0);
+  box-shadow: 0 0 1px transparent;
+  overflow: hidden;
+  -webkit-transition-duration: 0.5s;
+  transition-duration: 0.5s;
+  -webkit-transition-property: color, background-color;
+  transition-property: color, background-color;
+  display: inline-block;
+}
+
+.marquesina{
+	  color: #f2f2f2;
+    background-color: #171717;
+    height: 60px;
+    margin-top: 281px;
+    padding-top: 10px;
+       }
+
+@media (min-width: 1024px) {
+  .marquesina{
+    margin-top: 395px;
+  }
+}
+   
+.cursos{
+   /* background-image: url(fondo.png);*/
+    margin-top: 350px;
+    text-align: center;
+    background-color: #f2f2f2;
+    background-attachment: fixed;
+       }
