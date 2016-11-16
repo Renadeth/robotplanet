@@ -1,12 +1,8 @@
 .botonera{
-				background-color: #17202A;
+				background-color: #f2f2f2;
         margin-top: 0px;
-        height: 92px;
-        padding-top:2px;
-        width: 100%;
-        position: fixed;
+        height: 87px;
 }
-
 .boton1{
 	background-color: #7FE809;
 	width: 80px;
@@ -139,29 +135,10 @@
   background-color: #f2f2f2;
   color: #666;
 }
-.boton8{
-  background-color: #17202A;
-  width: 80px;
-}
-.boton8:hover, .boton8:focus, .boton8:active {
-  -webkit-animation-name: hvr-back-pulse;
-  animation-name: hvr-back-pulse;
-  -webkit-animation-duration: 1s;
-  animation-duration: 1s;
-  -webkit-animation-delay: 0.5s;
-  animation-delay: 0.5s;
-  -webkit-animation-timing-function: linear;
-  animation-timing-function: linear;
-  -webkit-animation-iteration-count: infinite;
-  animation-iteration-count: infinite;
-  background-color: #17202A;
-  background-color: #17202A;
-  color: #666;
-}
-.boton1, .boton2, .boton3, .boton4, .boton5, .boton6, .boton7, .boton8 {
+.boton1, .boton2, .boton3, .boton4, .boton5, .boton6, .boton7 {
 	text-align: center;
 	color: #f2f2f2;
-	height: 90%;
+	height: 100%;
 	margin-top: 0px;
 	padding-top: 20px;
 	-webkit-transform: perspective(1px) translateZ(0);
@@ -177,54 +154,22 @@
 
 .marquesina{
 	  color: #f2f2f2;
-    background-color: #17202A;
+    background-color: #171717;
     height: 60px;
-    margin-top: 0px;
+    margin-top: 281px;
     padding-top: 10px;
        }
-.marquesina2{
-    color: #f2f2f2;
-    background-color: #17202A;
-    height: 150px;
-    margin-top: 0px;
-    padding-top: 100px;
-    width: 100%;
-       }
+
 @media (min-width: 1024px) {
   .marquesina{
-    margin-top: 0px;
+    margin-top: 395px;
   }
 }
    
 .cursos{
-    background-color: #fff; 
-    background-image: url(fondo5.jpg);
-    margin-top: 0px;
-    padding-top: 50px;
+   /* background-image: url(fondo.png);*/
+    margin-top: 350px;
     text-align: center;
+    background-color: #f2f2f2;
     background-attachment: fixed;
-    height: 400px;
        }
-
-  .galeria{
-  height: 450px;
-  position: relative;
-  background-image: url(fondo1.png);
-  background-attachment: fixed;
-  padding-top: 270px;
-  background-repeat: no-repeat;
-  background-color: #000;
-  } 
-.footer{
-  background-color:  #17202A;
-  color: #f2f2f2;
-  height: 100px;
-}
-.cover{
-    background-image: url(cover3.jpg);
-    height: 500px;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    margin-top: -25px;
-    background-size: cover;
-  }
