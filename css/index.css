@@ -228,3 +228,11 @@
     margin-top: -25px;
     background-size: cover;
   }
+  .cover1{
+    background-image: url(cover3.jpg);
+    height: 500px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin-top: -25px;
+    background-size: cover;
+  }
